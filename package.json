@@ -1,0 +1,28 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Module 10 u of u bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attidack/jest-another-RPG.git"
+  },
+  "keywords": [
+    "jest",
+    "RPG",
+    "node",
+    "javascript",
+    "bootcamp",
+    "module",
+    "10"
+  ],
+  "author": "Jon Bird",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/attidack/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/attidack/jest-another-RPG#readme"
+}
